@@ -20,3 +20,10 @@ h2,
 h3 {
 	line-height: 1.2;
 }
+
+nav ul {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	padding: 0;
+}
