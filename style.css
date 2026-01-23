@@ -22,8 +22,16 @@ h3 {
 }
 
 nav ul {
+	list-style: none;
+	padding: 0;
+	text-align: right;
+}
+
+/*
+nav ul {
 	display: flex;
 	justify-content: space-between;
 	list-style: none;
 	padding: 0;
 }
+*/
