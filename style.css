@@ -1,13 +1,15 @@
 body {
 	font-size: 18px;
 	line-height: 1.6;
-	color: #444;
+	color: #444444;
 	max-width: 650px;
 	margin: 40px auto;
 	padding: 0 40px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 	line-height: 1.2;
 }
 
@@ -19,7 +21,9 @@ nav ul {
 	list-style: none;
 }
 
-table, th, td {
+table,
+th,
+td {
 	border-collapse: collapse;
 }
 
