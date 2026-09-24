@@ -1,7 +1,7 @@
 body {
 	font-size: 18px;
 	line-height: 1.6;
-	color: #444444;
+	color: #444;
 	max-width: 650px;
 	margin: 40px auto;
 	padding: 0 40px;
@@ -15,22 +15,20 @@ h3 {
 
 nav ul {
 	display: flex;
-	justify-content: flex-end;
 	gap: 10px;
+	justify-content: flex-end;
 	padding: 0;
 	list-style: none;
 }
 
-table,
-th,
-td {
+table {
 	border-collapse: collapse;
 }
 
 th {
+	padding-right: 40px;
 	text-align: left;
 	font-weight: bold;
-	padding-right: 40px;
 }
 
 td {
